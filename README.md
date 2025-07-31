@@ -1,6 +1,6 @@
 # Reverso
 
-A comprehensive Python framework for reverse engineering and neural network analysis, providing tools for environment simulation, agent training, and interaction network analysis (Year 2023).
+A comprehensive Python framework for reverse engineering and neural network analysis, providing tools for environment simulation, agent training, and interaction network analysis.
 
 A Machine Learning Approach to Simulate Gene Expression and Infer Gene Regulatory Networks
 https://doi.org/10.3390/e25081214
