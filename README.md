@@ -3,19 +3,15 @@
 A comprehensive Python framework for reverse engineering and neural network analysis, providing tools for environment simulation, agent training, and interaction network analysis.
 
 A Machine Learning Approach to Simulate Gene Expression and Infer Gene Regulatory Networks
-
 https://doi.org/10.3390/e25081214
 
 Deep Learning and Metaheuristic for Multivariate Time-Series Forecasting 
-
 https://doi.org/10.1007/978-3-031-42529-5_24
 
 A Novel Reverse Engineering Approach for Gene Regulatory Networks 
-
 https://doi.org/10.1007/978-3-031-21127-0_26
 
 Optimizing Multi-variable Time Series Forecasting Using Metaheuristics 
-
 https://doi.org/10.1007/978-3-031-26504-4_8
 
 ## Overview
