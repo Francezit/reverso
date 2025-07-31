@@ -1,0 +1,45 @@
+[build-system]
+requires = [
+  "setuptools>=61.0"
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reverso"
+version = "1.1.0"
+license = {file = "LICENSE"}
+authors = [
+  { name="Francesco Zito", email="zitofrancesco@outlook.com" }
+]
+keywords = ["Reverse Enginnering"]
+description = "Framework for Reverse Enginnering"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+ "Programming Language :: Python :: 3",
+ "License :: OSI Approved :: MIT License",
+ "Operating System :: OS Independent",
+]
+dependencies = [
+  "tensorflow>=2.0",
+  "tensorflow-text>=2.0",
+  "tf-models-official>=2.0",
+  "networkx>=3.1",
+  "scikit-learn==1.2.2",
+  "pandas==2.0.3",
+  "pillow==10.2.0",
+  "matplotlib==3.7.4",
+  "deap==1.4.1",
+  "numpy==1.24.3",
+  "seaborn",
+  "pympler",
+  'networkx',
+  'cachetools>=5.3.0',
+  "psutil",
+  "imageio",
+  "mrmr_selection"
+]
+
+[project.urls]
+Homepage = ""
+Issues = ""
