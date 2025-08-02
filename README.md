@@ -11,9 +11,6 @@ https://doi.org/10.1007/978-3-031-42529-5_24
 A Novel Reverse Engineering Approach for Gene Regulatory Networks 
 https://doi.org/10.1007/978-3-031-21127-0_26
 
-Optimizing Multi-variable Time Series Forecasting Using Metaheuristics 
-https://doi.org/10.1007/978-3-031-26504-4_8
-
 ## Overview
 
 Reverso is designed to facilitate reverse engineering tasks through machine learning and network analysis. It provides a unified framework for:
